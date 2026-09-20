@@ -85,7 +85,9 @@ ByT5-small need `torch` (and `transformers`).
 Because of the first three, numbers from this code are close to the published ones but not
 identical to the decimal.
 
-## Data licence
+## Licence
+
+The code in this repository is MIT-licensed; see `LICENSE`.
 
 The editions are CC-BY from papyri.info and are not included here. Cite the papyri.info
 `idp.data` repository and the Grammateus project if you use them.
