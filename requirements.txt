@@ -1,0 +1,10 @@
+lxml
+numpy
+pandas
+pyarrow
+scikit-learn
+scipy
+rapidfuzz
+datasketch
+numba
+# optional, per model: fasttext (fastText), torch + transformers (char-CNN, ByT5-small)
